@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d02fcd597b6e7e14ca224bd46de44c2a, type: 3}
+  m_Name: Naranja
+  m_EditorClassIdentifier: 
+  _name: Naranja
+  _image: {fileID: 21300000, guid: 68a819ce82abc58408dbde2afc93cb47, type: 3}
+  _model: {fileID: 6372548316053780800, guid: d4f02f8dd205ca5418ca0402ffe07af0, type: 3}

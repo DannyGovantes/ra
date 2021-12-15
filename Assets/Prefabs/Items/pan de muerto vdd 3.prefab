@@ -90,8 +90,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2396938501888012795}
-  - component: {fileID: 2607273548114209767}
-  - component: {fileID: 1018460874426595363}
   m_Layer: 0
   m_Name: pan de muerto vdd 3
   m_TagString: Untagged
@@ -119,35 +117,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!65 &2607273548114209767
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3028796586240879425}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1.12753, y: 1.0283401, z: 0.99328804}
-  m_Center: {x: -0.09210499, y: 0.318825, z: 0.93894875}
---- !u!114 &1018460874426595363
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3028796586240879425}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b24dd08624ce7824dbcf4edbcb927082, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _recipieItem: {fileID: 0}
-  _color:
-    serializedVersion: 2
-    rgba: 3154120191
 --- !u!1 &4302425535427983610
 GameObject:
   m_ObjectHideFlags: 0

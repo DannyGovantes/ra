@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d02fcd597b6e7e14ca224bd46de44c2a, type: 3}
+  m_Name: "Ag\xFCita"
+  m_EditorClassIdentifier: 
+  _name: "Ag\xFCita"
+  _image: {fileID: 21300000, guid: 341dca9ee9a474e4ca288a461738bebe, type: 3}
+  _model: {fileID: 5319757174412554340, guid: 92c84048efec16b49a0a9aeaaa81438b, type: 3}

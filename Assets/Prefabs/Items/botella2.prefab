@@ -11,8 +11,6 @@ GameObject:
   - component: {fileID: 6364711400456170378}
   - component: {fileID: 8069365148044665903}
   - component: {fileID: 5195134788386574565}
-  - component: {fileID: 9151077605819010644}
-  - component: {fileID: 703606491469628214}
   m_Layer: 0
   m_Name: botella2
   m_TagString: Untagged
@@ -83,32 +81,3 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &9151077605819010644
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5987588346134786352}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1.74, y: 1.44, z: 1}
-  m_Center: {x: 0, y: 0.31, z: 0}
---- !u!114 &703606491469628214
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5987588346134786352}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b24dd08624ce7824dbcf4edbcb927082, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _recipieItem: {fileID: 0}
-  _color:
-    serializedVersion: 2
-    rgba: 4127588472

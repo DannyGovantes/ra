@@ -8,7 +8,9 @@ using System.Linq;
 public class GameMenu : Menu<GameMenu>
 {
 
-   
+   public void OnSpawnItem(){
+        RecipieController.Instance.SpawnItem();
+    }
 
 
 }
