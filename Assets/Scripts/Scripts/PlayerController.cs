@@ -52,7 +52,7 @@ public class PlayerController : MonoBehaviour
     public void PopMessage()
     {
         message.SetActive(true);
-        RestartScene();
+        StartCoroutine(RestartScene());
 
     }
 
